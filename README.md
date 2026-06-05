@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESTUDIANTE-FES_ARAGÓN-818CF8?style=for-the-badge&labelColor=020617&logo=google-scholar&logoColor=818CF8" alt="Estudiante" />
+  <img src="https://img.shields.io/badge/ESTUDIANTE-UNAM_--_FES_ARAGÓN-818CF8?style=for-the-badge&labelColor=020617&logo=google-scholar&logoColor=818CF8" alt="Estudiante" />
   <a href="https://github.com/itsebasvz?tab=repositories">
-    <img src="https://img.shields.io/github/repos/itsebasvz?style=for-the-badge&color=818CF8&labelColor=020617&logo=github&logoColor=818CF8&label=PROYECTOS" alt="Proyectos" />
+    <img src="https://img.shields.io/badge/PROYECTOS-10%2B-818CF8?style=for-the-badge&labelColor=020617&logo=github&logoColor=818CF8" alt="Proyectos" />
   </a>
   <img src="https://img.shields.io/badge/CAFÉS-1000%2B-818CF8?style=for-the-badge&labelColor=020617&logo=coffeescript&logoColor=818CF8" alt="Cafés Bebidos" />
   <img src="https://komarev.com/ghpvc/?username=itsebasvz&color=818CF8&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
