@@ -53,9 +53,8 @@ Me interesa especialmente la **automatización de procesos**, el diseño de inte
 ### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Mis Estadísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=itsebasvz&theme=transparent&hide_border=true&title_color=818CF8&text_color=cbd5e1&icon_color=A78BFA&background=020617" alt="Estadísticas de GitHub" />
-  <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsebasvz&theme=transparent" alt="Lenguajes más usados" />
+  <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/overview.svg" alt="Estadísticas Generales" />
+  <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/languages.svg" alt="Lenguajes Más Usados" />
 </div>
 
 
