@@ -30,20 +30,23 @@ Me interesa especialmente la **automatización de procesos**, el diseño de inte
 
 ---
 
-### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Stack Tecnológico
+### <img src="https://api.iconify.design/lucide:wrench.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Lenguajes y Herramientas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB&borderColor=4F46E5" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white&borderColor=4F46E5" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6&borderColor=4F46E5" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&borderColor=4F46E5" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Framer_Motion-020617?style=for-the-badge&logo=framer&logoColor=white&borderColor=4F46E5" alt="Framer Motion" />
-  <br />
-  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB&borderColor=7C3AED" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-020617?style=for-the-badge&logo=fastapi&logoColor=009688&borderColor=7C3AED" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED&borderColor=7C3AED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FCC624&borderColor=7C3AED" alt="Linux" />
-</div>
+<p align="center">
+  <img src="assets/icons/html.svg" alt="HTML" width="40" height="40" />
+  <img src="assets/icons/css.svg" alt="CSS" width="40" height="40" />
+  <img src="assets/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
+  <img src="assets/icons/typescript.svg" alt="TypeScript" width="40" height="40" />
+  <img src="assets/icons/react.svg" alt="React" width="40" height="40" />
+  <img src="assets/icons/nextjs.svg" alt="Next.js" width="40" height="40" />
+  <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="assets/icons/framer.svg" alt="Framer Motion" width="40" height="40" />
+  <img src="assets/icons/python.svg" alt="Python" width="40" height="40" />
+  <img src="assets/icons/fastapi.svg" alt="FastAPI" width="40" height="40" />
+  <img src="assets/icons/docker.svg" alt="Docker" width="40" height="40" />
+  <img src="assets/icons/linux.svg" alt="Linux" width="40" height="40" />
+  <img src="assets/icons/git-scm.svg" alt="Git" width="40" height="40" />
+</p>
 
 <br />
 
