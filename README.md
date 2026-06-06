@@ -57,4 +57,16 @@ Me interesa especialmente la **automatización de procesos**, el diseño de inte
   <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/languages.svg" alt="Lenguajes Más Usados" />
 </div>
 
+<br />
 
+### <img src="https://api.iconify.design/lucide:headphones.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Lo que estoy escuchando
+
+<p align="center">
+  <a href="https://spotify-readme-api-delta.vercel.app/api/now-playing?open">
+    <img src="https://spotify-readme-api-delta.vercel.app/api/now-playing" alt="Now Playing" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://spotify-readme-api-delta.vercel.app/api/top-played" alt="Top Played Tracks" />
+</p>
