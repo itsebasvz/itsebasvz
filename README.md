@@ -17,7 +17,7 @@
   <a href="https://github.com/itsebasvz?tab=repositories">
     <img src="https://img.shields.io/badge/PROYECTOS-10%2B-818CF8?style=for-the-badge&labelColor=020617&logo=github&logoColor=818CF8" alt="Proyectos" />
   </a>
-  <img src="https://img.shields.io/badge/CAFÉS-1000%2B-818CF8?style=for-the-badge&labelColor=020617&logo=coffeescript&logoColor=818CF8" alt="Cafés Bebidos" />
+
   <img src="https://komarev.com/ghpvc/?username=itsebasvz&color=818CF8&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 </p>
 
