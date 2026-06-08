@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESTUDIANTE-UNAM_--_FES_ARAGÓN-818CF8?style=for-the-badge&labelColor=020617&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzgxOENGOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMS40MiAxMC45MjJhMSAxIDAgMCAwLS4wMTktMS44MzhMMTIuODMgNS4xOGEyIDIgMCAwIDAtMS42NiAwTDIuNiA5LjA4YTEgMSAwIDAgMCAwIDEuODMybDguNTcgMy45MDhhMiAyIDAgMCAwIDEuNjYgMHpNMjIgMTB2NiIvPjxwYXRoIGQ9Ik02IDEyLjVWMTZhNiAzIDAgMCAwIDEyIDB2LTMuNSIvPjwvZz48L3N2Zz4%3D&logoColor=818CF8" alt="Estudiante" />
-  <a href="https://github.com/itsebasvz?tab=repositories"><img src="https://img.shields.io/badge/PROYECTOS-10%2B-818CF8?style=for-the-badge&labelColor=020617&logo=github&logoColor=818CF8" alt="Proyectos" /></a>
-  <img src="https://spotify-readme-api-delta.vercel.app/api/views?v=1" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/badge/STUDENT-UNAM_--_FES_ARAGÓN-818CF8?style=for-the-badge&labelColor=020617&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzgxOENGOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMS40MiAxMC45MjJhMSAxIDAgMCAwLS4wMTktMS44MzhMMTIuODMgNS4xOGEyIDIgMCAwIDAtMS42NiAwTDIuNiA5LjA4YTEgMSAwIDAgMCAwIDEuODMybDguNTcgMy45MDhhMiAyIDAgMCAwIDEuNjYgMHpNMjIgMTB2NiIvPjxwYXRoIGQ9Ik02IDEyLjVWMTZhNiAzIDAgMCAwIDEyIDB2LTMuNSIvPjwvZz48L3N2Zz4%3D&logoColor=818CF8" alt="Student" />
+  <a href="https://github.com/itsebasvz?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-10%2B-818CF8?style=for-the-badge&labelColor=020617&logo=github&logoColor=818CF8" alt="Projects" /></a>
+  <img src="https://spotify-readme-api-delta.vercel.app/api/views?v=2" alt="Profile views" />
 </p>
 
 <br />
@@ -27,7 +27,7 @@ Beyond technical skills, I have a strong interest in **process automation** and 
 
 ---
 
-### <img src="https://api.iconify.design/lucide:wrench.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Lenguajes y Herramientas
+### <img src="https://api.iconify.design/lucide:wrench.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Languages and Tools
 
 <p align="center">
   <img src="assets/icons/html.svg" alt="HTML" width="40" height="40" />
@@ -47,16 +47,16 @@ Beyond technical skills, I have a strong interest in **process automation** and 
 
 <br />
 
-### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Mis Estadísticas
+### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> My Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/overview.svg?v=1" alt="Estadísticas Generales" />
-  <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/languages.svg?v=1" alt="Lenguajes Más Usados" />
+  <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/overview.svg?v=1" alt="General Statistics" />
+  <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/languages.svg?v=1" alt="Most Used Languages" />
 </div>
 
 <br />
 
-### <img src="https://api.iconify.design/lucide:headphones.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Lo que estoy escuchando
+### <img src="https://api.iconify.design/lucide:headphones.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> What I'm listening to
 
 <p align="center">
   <a href="https://spotify-readme-api-delta.vercel.app/api/now-playing?open">
