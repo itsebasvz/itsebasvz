@@ -23,6 +23,8 @@
 ### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> About me
 Computer Engineering student at UNAM, focused on modern web application development, from the interface to server logic. I'm interested in creating clear, functional, and well-structured software, caring for both user experience and code quality.
 
+Beyond technical skills, I have a strong interest in process automation and clean interface design. I also bring experience in leading teams and solving problems under pressure, always seeking to learn and build projects with real-world impact.
+
 ---
 
 ### <img src="https://api.iconify.design/lucide:wrench.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Lenguajes y Herramientas
