@@ -14,11 +14,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESTUDIANTE-UNAM_--_FES_ARAGÓN-818CF8?style=for-the-badge&labelColor=020617&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzgxOENGOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMS40MiAxMC45MjJhMSAxIDAgMCAwLS4wMTktMS44MzhMMTIuODMgNS4xOGEyIDIgMCAwIDAtMS42NiAwTDIuNiA5LjA4YTEgMSAwIDAgMCAwIDEuODMybDguNTcgMy45MDhhMiAyIDAgMCAwIDEuNjYgMHpNMjIgMTB2NiIvPjxwYXRoIGQ9Ik02IDEyLjVWMTZhNiAzIDAgMCAwIDEyIDB2LTMuNSIvPjwvZz48L3N2Zz4%3D&logoColor=818CF8" alt="Estudiante" />
-  <a href="https://github.com/itsebasvz?tab=repositories">
-    <img src="https://img.shields.io/badge/PROYECTOS-10%2B-818CF8?style=for-the-badge&labelColor=020617&logo=github&logoColor=818CF8" alt="Proyectos" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=itsebasvz&color=818CF8&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+  <a href="https://github.com/itsebasvz?tab=repositories"><img src="https://img.shields.io/badge/PROYECTOS-10%2B-818CF8?style=for-the-badge&labelColor=020617&logo=github&logoColor=818CF8" alt="Proyectos" /></a>
+  <img src="https://komarev.com/ghpvc/?username=itsebasvz&color=818CF8&style=for-the-badge&labelColor=020617&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 </p>
 
 <br />
