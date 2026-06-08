@@ -20,10 +20,8 @@
 
 <br />
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> Sobre mí
-Soy estudiante de Ingeniería en Computación en la **UNAM** (FES Aragón), con base en la Ciudad de México. Disfruto construyendo aplicaciones web modernas, conectando el frontend y el backend para crear experiencias de usuario sólidas.
-
-Me interesa especialmente la **automatización de procesos**, el diseño de interfaces limpias (*Dark mode & Glassmorphism lover*) y la optimización de flujos de trabajo. Fuera del código, me gusta liderar equipos y resolver problemas en entornos reales.
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23818CF8" width="24" height="24" style="vertical-align: middle;" /> About me
+Computer Engineering student at UNAM, focused on modern web application development, from the interface to server logic. I'm interested in creating clear, functional, and well-structured software, caring for both user experience and code quality.
 
 ---
 
