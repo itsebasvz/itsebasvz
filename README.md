@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=FF761A&center=true&vCenter=true&width=600&lines=Hi!+I'm+Sebasti%C3%A1n+V%C3%A1zquez+👋;Full-Stack+Developer;Computer+Engineering+Student;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=FF761A&center=true&vCenter=true&width=600&lines=Hi!+I'm+Sebasti%C3%A1n+V%C3%A1zquez+👋;Full-Stack+Developer;Computer+Engineering+Student;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jsebastianvz"><img width="36px" alt="LinkedIn" src="https://api.iconify.design/lucide:linkedin.svg?color=%23FF761A"/></a>
+  <a href="https://www.linkedin.com/in/jsebastianvz"><img width="36" alt="LinkedIn" src="assets/icons/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/itsebasvz"><img width="36px" alt="GitHub" src="https://api.iconify.design/lucide:github.svg?color=%23FF761A"/></a>
+  <a href="https://github.com/itsebasvz"><img width="36" alt="GitHub" src="assets/icons/github.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.itsebastianvz.dev/"><img width="36px" alt="Portfolio" src="https://api.iconify.design/lucide:globe.svg?color=%23FF761A"/></a>
+  <a href="https://www.itsebastianvz.dev/"><img width="36" alt="Portfolio" src="assets/icons/globe.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:sebastianvazquez36@aragon.unam.mx"><img width="36px" alt="Email" src="https://api.iconify.design/lucide:mail.svg?color=%23FF761A"/></a>
+  <a href="mailto:sebastianvazquez36@aragon.unam.mx"><img width="36" alt="Email" src="assets/icons/mail.svg"/></a>
 </p>
 
 <p align="center">
@@ -20,14 +20,14 @@
 
 <br />
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23FF761A" width="24" height="24" style="vertical-align: middle;" /> About me
+### <img src="assets/icons/terminal.svg" width="24" height="24" style="vertical-align: middle;" /> About me
 **Computer Engineering** student at **UNAM**, focused on **modern web application development**, from the interface to server logic. I'm interested in creating clear, functional, and well-structured software, caring for both **user experience** and **code quality**.
 
 Beyond technical skills, I have a strong interest in **process automation** and **clean interface design**. I also bring experience in **leading teams** and **solving problems** under pressure, always seeking to learn and build projects with **real-world impact**.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:wrench.svg?color=%23FF761A" width="24" height="24" style="vertical-align: middle;" /> Languages and Tools
+### <img src="assets/icons/wrench.svg" width="24" height="24" style="vertical-align: middle;" /> Languages and Tools
 
 <p align="center">
   <img src="assets/icons/html.svg" alt="HTML" width="40" height="40" />
@@ -47,7 +47,7 @@ Beyond technical skills, I have a strong interest in **process automation** and 
 
 <br />
 
-### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23FF761A" width="24" height="24" style="vertical-align: middle;" /> My Statistics
+### <img src="assets/icons/chart.svg" width="24" height="24" style="vertical-align: middle;" /> My Statistics
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsebasvz/github-stats-transparent/output/generated/overview.svg?v=1" alt="General Statistics" />
@@ -56,7 +56,7 @@ Beyond technical skills, I have a strong interest in **process automation** and 
 
 <br />
 
-### <img src="https://api.iconify.design/lucide:headphones.svg?color=%23FF761A" width="24" height="24" style="vertical-align: middle;" /> What I'm listening to
+### <img src="assets/icons/headphones.svg" width="24" height="24" style="vertical-align: middle;" /> What I'm listening to
 
 <p align="center">
   <a href="https://api.itsebasvz.net/api/now-playing?open">
